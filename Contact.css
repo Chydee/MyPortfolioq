@@ -1,0 +1,13 @@
+h1 {
+    border: groove turquoise;
+    background-color: turquoise;
+    text-align: center;
+}
+form {
+    border: outset 7px burlywood;
+    background-color: burlywood;
+     margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
